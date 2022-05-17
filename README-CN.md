@@ -1,4 +1,6 @@
-# GeekCode Cloud IDE
+[![GeekCode](logo.svg)](https://geekcode.cloud)
+
+# What is GeekCode?
 
 [English](./README.md) | 简体中文
 
