@@ -1,5 +1,7 @@
 # GeekCode Cloud IDE
 
+[English](./README.md) | 简体中文
+
 ## 0. 什么是Cloud IDE
 Cloud IDE是基于云的集成开发环境。IDE主要工作是编写、运行、调试和打包代码。传统的方式是开发者在本地的电脑上设置IDE，但Cloud IDE 允许开发者使用浏览器设置云开发环境，在浏览器中完成开发程序。
 
@@ -45,4 +47,4 @@ Cloud IDEs are integrated development environments based in the cloud. IDEs let 
 [Offical Discussions](https://github.com/geeklamp/geekcode.cloud/discussions)
 
 Lark/Feishu Group: 
-![](feishugroup.png)
+![](./feishugroup.png)
