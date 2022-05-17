@@ -45,8 +45,8 @@ The R&D team works together, sharing workspace, Code Review, Quick Test, Walk-th
 
 ## 3. FAQ
 
-* How to use *Compile Boost*
-* How to use *Dev URL*
+* [How to use *Compile Boost*](https://github.com/geeklamp/geekcode.cloud/wiki/How-to-use-Compile-Boost)
+* [How to use *Dev URL*](https://github.com/geeklamp/geekcode.cloud/wiki/How-to-use-Dev-URL)
 
 ## 4. Community
 - [Offical Discussions](https://github.com/geeklamp/geekcode.cloud/discussions)
