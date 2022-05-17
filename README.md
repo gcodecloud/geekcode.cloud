@@ -46,7 +46,7 @@ Cloud IDEs are integrated development environments based in the cloud. IDEs let 
 研发团队协同工作，分享工作空间、Code Review、Quick Test、Walk-through、团队管理与代码安全，通过Cloud IDE以及平台解决
 
 ## 3. 社区
-[Offical Discussions](https://github.com/geeklamp/geekcode.cloud/discussions)
+- [Offical Discussions](https://github.com/geeklamp/geekcode.cloud/discussions)
 
-Lark/Feishu Group: 
+- Lark/Feishu Group: 
 <img src="./feishugroup.png" alt="feishu group" width="120"/>
