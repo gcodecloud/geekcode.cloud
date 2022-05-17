@@ -9,7 +9,7 @@ Cloud IDE是基于云的集成开发环境。IDE主要工作是编写、运行�
 
 Cloud IDEs are integrated development environments based in the cloud. IDEs let you write run and debug your code. Typicaly developers set up IDEs on their local machine, but Cloud-based IDEs allow you to develop software with just a browser.
 
-## 1. GeekCloud IDE 特点
+## 1. GeekCode 特点
 
 ### Compile Boost
 
@@ -27,7 +27,7 @@ Cloud IDEs are integrated development environments based in the cloud. IDEs let 
 
 标准化的开发环境。创建、分享、复制管理。
 
-## 2. GeekCloud IDE 使用场景
+## 2. GeekCode 使用场景
 
 ### Remote Integrate Test
 
