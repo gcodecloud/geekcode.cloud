@@ -26,8 +26,19 @@ Cloud IDEs are integrated development environments based in the cloud. IDEs let 
 ## 2. GeekCloud IDE 使用场景
 
 ### Remote Integrate Test
+
+远程的集成测试，省略掉中间代码推送、打包、镜像、部署到测试机的繁琐步骤，直接把开发环境的Dev URL分享给你的合作伙伴，一起进行联调。
+
 ### Web3 / Rust compile
+
+新的场景和语言，通过编译加速技术解决Rust编译速度慢的问题，提高基础软件工程师、Web3工程师和Rust语言工程师的开发效率。
+
 ### Quick Demo /POC
+
+快速的产品演示与推广，给客户一个便利的演示环境，即开即用，减少沟通成本。
+
 ### Teamwork
+
+研发团队协同工作，分享工作空间、Code Review、Quick Test、Walk-through、团队管理与代码安全，通过Cloud IDE以及平台解决
 
 ## 3. 社区
