@@ -43,7 +43,12 @@ Quick product demonstration and promotion, giving customers a convenient demonst
 
 The R&D team works together, sharing workspace, Code Review, Quick Test, Walk-through, team management and code security, and solves problems through Cloud IDE and platform
 
-## 3. Community
+## 3. FAQ
+
+* How to use *Compile Boost*
+* How to use *Dev URL*
+
+## 4. Community
 - [Offical Discussions](https://github.com/geeklamp/geekcode.cloud/discussions)
 
 - Lark/Feishu Group: 
