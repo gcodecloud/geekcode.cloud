@@ -49,4 +49,4 @@ Cloud IDEs are integrated development environments based in the cloud. IDEs let 
 [Offical Discussions](https://github.com/geeklamp/geekcode.cloud/discussions)
 
 Lark/Feishu Group: 
-![](./feishugroup.png)
+<img src="./feishugroup.png" alt="feishu group" width="120"/>
