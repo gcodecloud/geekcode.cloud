@@ -1,9 +1,33 @@
 # GeekCode Cloud IDE
 
-## 什么是Cloud IDE
+## 0. 什么是Cloud IDE
+Cloud IDE是基于云的集成开发环境。IDE主要工作是编写、运行、调试和打包代码。传统的方式是开发者在本地的电脑上设置IDE，但Cloud IDE 允许开发者使用浏览器设置云开发环境，在浏览器中完成开发程序。
 
-## GeekCloud IDE 特点
+Cloud IDEs are integrated development environments based in the cloud. IDEs let you write run and debug your code. Typicaly developers set up IDEs on their local machine, but Cloud-based IDEs allow you to develop software with just a browser.
 
-## GeekCloud IDE 使用场景
+## 1. GeekCloud IDE 特点
 
-## 社区
+### Compile Boost
+
+编译代码时热更新主机配置，提高CPU的数量、内存大小以提高编译速度。
+
+### Dev URL
+
+通过虚拟域名、端口转发，创建Dev URL，将云环境内部API打通网关对外暴露。提高开发效率。
+
+### Development Template
+
+流程化配置、定义云开发模版，快速搭建开发环境。
+
+### Development Environment Management
+
+标准化的开发环境。创建、分享、复制管理。
+
+## 2. GeekCloud IDE 使用场景
+
+### Remote Integrate Test
+### Web3 / Rust compile
+### Quick Demo /POC
+### Teamwork
+
+## 3. 社区
