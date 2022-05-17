@@ -44,5 +44,5 @@ Cloud IDEs are integrated development environments based in the cloud. IDEs let 
 ## 3. 社区
 [Offical Discussions](https://github.com/geeklamp/geekcode.cloud/discussions)
 
-Lark/Feishu Group
+Lark/Feishu Group: 
 ![](feishugroup.png)
