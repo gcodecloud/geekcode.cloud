@@ -49,7 +49,7 @@ The R&D team works together, sharing workspace, Code Review, Quick Test, Walk-th
 * [How to use *Dev URL*](https://github.com/geeklamp/geekcode.cloud/wiki/How-to-use-Dev-URL)
 
 ## 4. Community
-- [Offical Discussions](https://github.com/geeklamp/geekcode.cloud/discussions)
-
-- Lark/Feishu Group: 
+- GitHub Discussions: click [link](https://github.com/geeklamp/geekcode.cloud/discussions)
+ to join
+- Lark/Feishu Group: click [link](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=45dt0074-e338-41f1-a0d2-47984b4614cb) to join
 <img src="./feishugroup.png" alt="feishu group" width="120"/>
