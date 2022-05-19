@@ -1,4 +1,4 @@
-[![GeekCode](logo.svg)](https://geekcode.cloud)
+[![GeekCode](./assest/logo.svg)](https://geekcode.cloud)
 
 # What is GeekCode?
 
