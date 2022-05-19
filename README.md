@@ -1,4 +1,4 @@
-[![GeekCode](logo.svg)](https://geekcode.cloud)
+[![GeekCode](./assest/logo.svg)](https://geekcode.cloud)
 
 # What is GeekCode.Cloud?
 
@@ -16,6 +16,8 @@ When compiling the code, the host configuration is hot updated, and the number o
 ### Dev URL
 
 Through virtual domain name and port forwarding, Dev URL is created, and the internal API of the cloud environment is exposed to the outside through the gateway. Improve development efficiency.
+
+![DevUrl](./assest/dev-url-demo.gif)
 
 ### Development Template
 
