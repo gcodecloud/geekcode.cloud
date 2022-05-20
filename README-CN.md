@@ -1,4 +1,4 @@
-[![GeekCode](./assest/logo.svg)](https://geekcode.cloud)
+[![GeekCode](./assets/logo.svg)](https://geekcode.cloud)
 
 # What is GeekCode?
 
@@ -49,4 +49,4 @@ Cloud IDEs are integrated development environments based in the cloud. IDEs let 
 [Offical Discussions](https://github.com/geeklamp/geekcode.cloud/discussions)
 
 Lark/Feishu Group: 
-<img src="./assest/feishugroup.png" alt="feishu group" width="120"/>
+<img src="./assets/feishugroup.png" alt="feishu group" width="120"/>
