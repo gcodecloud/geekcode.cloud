@@ -12,7 +12,7 @@ Cloud IDEs are integrated development environments based in the cloud. IDEs let 
 ### Compile Boost
 
 When compiling the code, the host configuration is hot updated, and the number of CPUs and memory size are increased to improve the compilation speed.
-
+![CompileBoost](./assest/compile-boost.png)
 ### Dev URL
 
 Through virtual domain name and port forwarding, Dev URL is created, and the internal API of the cloud environment is exposed to the outside through the gateway. Improve development efficiency.
