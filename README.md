@@ -59,3 +59,4 @@ The R&D team works together, sharing workspace, Code Review, Quick Test, Walk-th
 - GitHub Discussions: click [link](https://github.com/geeklamp/geekcode.cloud/discussions)
  to join
 - Lark/Feishu Group: click [link](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=381ma10a-4d3f-473c-acd4-ff238c12153a) to join
+- Telegram Group: click [link](https://t.me/GeekCodeCloud) to join
