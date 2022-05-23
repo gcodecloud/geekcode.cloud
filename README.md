@@ -17,7 +17,7 @@ When compiling the code, the host configuration is hot updated, and the number o
 
 
 
-![CompileBoost](./assets/compile-boost2.png)
+![CompileBoost](./assets/compile-boost3.png)
 ### Dev URL
 
 Through virtual domain name and port forwarding, Dev URL is created, and the internal API of the cloud environment is exposed to the outside through the gateway. Improve development efficiency.
