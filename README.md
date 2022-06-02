@@ -9,16 +9,13 @@ Cloud IDEs are integrated development environments based in the cloud. IDEs let 
 
 ## 1. GeekCode.Cloud Features
 
-### Compile Boost
-
-![rocket](./assets/rocket-icon.svg)
+### 🚀 Compile Boost
 
 When compiling the code, the host configuration is hot updated, and the number of CPUs and memory size are increased to improve the compilation speed.
 
-
-
 ![CompileBoost](./assets/compile-boost3.png)
-### Dev URL
+
+### 🔗 Dev URL
 
 Through virtual domain name and port forwarding, Dev URL is created, and the internal API of the cloud environment is exposed to the outside through the gateway. Improve development efficiency.
 
