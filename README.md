@@ -13,7 +13,9 @@ Cloud IDEs are integrated development environments based in the cloud. IDEs let 
 
 When compiling the code, the host configuration is hot updated, and the number of CPUs and memory size are increased to improve the compilation speed.
 
-![CompileBoost](./assets/compile-boost3.png)
+<img width="600" alt="CompileBoost" src="https://user-images.githubusercontent.com/1196420/172994915-207525e0-5f50-4014-85dd-94597152b9f9.png" />
+
+
 
 ### 🔗 Dev URL
 
