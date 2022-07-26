@@ -1,5 +1,7 @@
 [![GeekCode](./assets/logo.svg)](https://geekcode.cloud)
 
+[![Open in GeekCode](https://geekcode.cloud/button/open-in-geekcode.svg)](https://geekcode.cloud/#https://github.com/gcodecloud/geekcode.cloud/)
+
 # What is GeekCode.Cloud?
 
 English | [简体中文](./README-CN.md)
